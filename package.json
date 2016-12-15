@@ -2,7 +2,7 @@
   "name": "sequelize-hokkoo",
   "description": "Multi dialect ORM for Node.JS/io.js",
   "version": "3.24.3",
-  "author": "Hokkoo",
+  "author": "Sascha Depold <sascha@depold.com>",
   "contributors": [
     {
       "name": "Sascha Depold",
